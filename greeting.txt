@@ -4,4 +4,6 @@ edit	終了は：wqです
 git commit --amend
 コンフリクトかぶってる
 conflict
+pull requestするぞ！
+
 
