@@ -5,5 +5,6 @@ git commit --amend
 コンフリクトかぶってる
 conflict
 pull requestするぞ！
+github flow やるぞ
 
 
