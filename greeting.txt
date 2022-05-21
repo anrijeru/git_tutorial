@@ -2,4 +2,6 @@ Hello,world
 変更したよ１
 edit	終了は：wqです
 git commit --amend
-gitmargeを追記
+gitmargeを追
+コンフリクトかぶってる！！
+
